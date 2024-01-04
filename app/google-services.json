@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183240441232",
+    "project_id": "formmoots",
+    "storage_bucket": "formmoots.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183240441232:android:1bab1d2e236f1ce08bc715",
+        "android_client_info": {
+          "package_name": "lat.pam.formmoots"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ls3ALeyeZtuHlDipepwYcc_nS3dS6gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
